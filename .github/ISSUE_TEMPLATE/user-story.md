@@ -15,7 +15,6 @@ assignees: ''
  - Criteria 3
 
 ### Task List
- [ ] Task 1
- [  ] Task 2
- [   ] Task 3
- [ ] WTF
+ - [ ] Task 1
+ - [ ] Task 2
+ - [ ] Task 3
