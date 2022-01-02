@@ -8,3 +8,8 @@ assignees: ''
 ---
 
 *As a* **[[role]]** *I can* **[[action]]** *in order to* **[[get benefit]]**
+
+### Acceptance Criteria
+ - Criteria 1
+ - Criteria 2
+ - Criteria 3
